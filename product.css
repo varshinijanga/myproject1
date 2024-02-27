@@ -1,0 +1,55 @@
+.con{
+  background-color: rgb(191, 202, 209);
+  height: 100%;
+  align-items: center;
+  padding: 50px;
+}
+.image{
+  width:100%;
+  height: 180px;
+}
+.logo{
+  width: 50px;
+}
+.shoe{
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+
+}
+.head{
+  color: black;
+  font-size: 40px;
+  font-family:"Roboto";
+  font-weight: bold;
+}
+.para{
+  color: rgb(117, 119, 120);
+  font-size: 15px;
+}
+.price{
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+.currency{
+font-size: 25px;
+}
+.options{
+  margin-left: 10px;
+  margin-top: 6px;
+}
+.border{
+  border-radius: 10px;
+}
+.button{
+  border-width: 0;
+  background-color: rgb(141, 206, 206);
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+button:hover{
+  background-color: rgb(235, 121, 132);
+}
